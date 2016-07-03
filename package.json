@@ -1,0 +1,22 @@
+{
+  "name": "howbeauty",
+  "version": "1.0.0",
+  "description": "颜值达芬奇移动端适配版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuoruiXie/HowBeauty.git"
+  },
+  "keywords": [
+    "howbeauty"
+  ],
+  "author": "Duorui Xie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuoruiXie/HowBeauty/issues"
+  },
+  "homepage": "https://github.com/DuoruiXie/HowBeauty#readme"
+}
